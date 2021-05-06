@@ -11,6 +11,8 @@
 
 
 git config --global user.name “Your Username”
+
+
 git config --global user.email “your Gmail”
 
 
@@ -23,6 +25,7 @@ git config --global user.email “your Gmail”
 
 
 این دستور فایل های گفته شده به گیت را نادیده میگیرد.
+
 :.git
 
 
@@ -45,10 +48,20 @@ git config --global user.email “your Gmail”
 
 
 git init
+
+
 git add –all
+
+
 git commit –m “Your commit”
+
+
 git branch -M main
+
+
 git remote add origin “Your repository’s URL”
+
+
 git push -u
 
 
