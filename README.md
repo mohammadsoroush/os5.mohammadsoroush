@@ -1,11 +1,19 @@
 محمد سروش_ 97440230 _ تمرین پنجم
+
+
 سوال اول.
+
+
 ابتدا با دستور cd وارد فایلمان میشویم. سپس دستورات زیر را به ترتیب وارد میکنیم.
+
+
 git config --global user.name “Your Username”
 git config --global user.email “your Gmail”
 
 
 سوال دوم.
+
+
 :.gitignore
 این دستور فایل های گفته شده به گیت را نادیده میگیرد.
 :.git
@@ -18,6 +26,8 @@ git config --global user.email “your Gmail”
 
 
 سوال سوم.
+
+
 ابتدا یک directory ایجاد و سپس دستورات زیر را در پوشه مورد نظر اجرا میکنیم
 git init
 git add –all
@@ -28,6 +38,8 @@ git push -u
 
 
 سوال چهارم.
+
+
 Uptime
 systemd-analyze
 systemd-analyze blame
